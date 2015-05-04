@@ -1,0 +1,235 @@
+1 Prime innovazioni bancarie
+La prima banca ad utilizzare il calcolatore è stata la Bank of America intro-
+ducendo verso la fine degli anni ’50 l’ERMA Electronic Recording Method of
+Accounting, il suo utilizzo è quello di velocizzare un numero limitato di servizio
+di back office. Solo con l’introduzione dello sportello ATM le banche migliorano
+il servizio fornito al cittadino.
+Le banche con pura finalità di ridurre il costo di back office dell’elaborazione
+degli assegni, introducono negli anni ‘70 il servizio di “home banking” (servizi
+bancari accessibili da casa), rivolti al cittadino, che tuttavia non era ‘educato’
+all’utilizzo, motivazione principale per la quale i primi tentativi di approccio
+furono fallimentari. Questo capitolo riporta esempi di procedure tramite cui il
+cittadino poteva accedere ai servizi bancari da casa.
+1.1
+Breve storia dei calcolatori nelle banche
+Il primo calcolatore ad essere stato impiegato in una banca fu ERMA, acronimo
+di Electronic Recording Method of Accounting. ERMA è un progetto portato
+a termine dai ricercatori della Stanford ed ideato per la Bank of America nel
+tentativo di informatizzare il settore bancario. ERMA si occupava di informatiz-
+zare il tutta la parte manuale relativa ai controlli e gestione degli conti correnti.
+I ricercatori della Stanford hanno anche inventato MICR (Magnetic Ink Charac-
+ter Recognition) come parte del ERMA. MICR permette ai computer di leggere
+
+1.2
+Miglioramento del servizio di front-office
+Per quanto riguarda i servizi bancari lo sportello Atm rappresenta il primo
+canale diretto tra cittadino e automazione, in quanto per la prima volta i
+servizi vengono erogati tramite macchina senza operatore. La primissima in-
+troduzione dello sportello ATM avvenne nel 1920, ma essendo stata presentata
+come un’innovazione in aggiunta al personale bancario non ebbe successo. Venne
+poi rintrodotto nel 1960 quando un cittadino scozzese, Shepherd-Barron, non
+poté usufruire dei servizi bancari perché si era recato in filiale durante l’orario
+di chiusura: da qui la sua idea di creare una macchina sempre in funzione che
+potesse dispensare contanti continuativamente. La macchina venne installata in
+una filiale di Barclay a nord di Londra. Era dotata anche di un sistema di ri-
+conoscimento degli assegni tramite Carbonio 14 (sostanza radioattiva ma senza
+conseguenze sull’utilizzatore finale).
+Nel 1965 venne sviluppata l’idea del codice numerico di sicurezza (PIN)
+elaborata dall’ingegnere inglese James Goodfellow, titolare di alcuni brevetti
+in materia, tuttavia il modello inaugurato nel 1967 accettava soltanto voucher
+monouso, che venivano trattenuti dalla macchina.
+Contemporaneamente in USA un ingegnere americano, Don Wetzel, inventò
+il primo Docuteller ATM che era in grado di riconoscere anche le carte di plas-
+tica. (12)(13)(14)
+In Italia compare nel 1976, a Ferrara: la Cassa di Risparmio di Ferrara fu
+la prima banca italiana a installarlo.[15]
+Fu però solo negli anni 80 che vi fu una massiva diffusione dello sportello
+ATM, come noi lo intendiamo oggi.
+
+1.3
+Home Banking e l’evoluzione dei metodi di pagamento
+Il primo approccio all’Home Banking avvenne negli anni ’70 tramite telefono
+touch-tone, che permetteva ai clienti di controllare il bilancio del conto cor-
+rente (entrate e uscite), trasferire fondi e pagare le bollette. Le banche idearono
+l’Home Banking con l’obiettivo di ridurre i costi back-office di processazione
+degli assegni fornendo la possibilità al cittadino di pagare le bollette tramite
+il touch-tone, l’obiettivo era disincentivare i consumatori a staccare assegni. Il
+servizio funzionava tutto il giorno e tramite tecnologia di risponditore auto-
+matico (sempre per minimizzare i costi del personale).
+Con la banca via telefono, i clienti digitavano una password numerica su un
+telefono touch-tone per accedere ai servizi bancari. La maggior parte dei servizi
+home banking per privati permetteva ai clienti nello specifico di:
+• tenere una sorta di contabilità (registri degli assegni e budget personali)
+• visualizzare le entrate e le uscite dei conti correnti
+• trasferire fondi attraverso gli assegni e i conti deposito
+• effettuare pagamenti elettronici ai commercianti aderenti (circa 17.000)
+• ottenere quotazioni per gli stock (pagando un extra al minuto rispetto al
+canone)
+Le prime banche ad introdurre i servizi di home banking furono 4 banche di
+NY: Citybank, Manhattan, Chemical e Manufacturers Hanover. I servizi erano
+progettati sia per i clienti privati che per le aziende. Alcuni esempi:
+• Pronto: servizio per privati via telefono touch-tone della Chemical, costo
+$12 al mese
+ Pronto business banker: servizio per piccole aziende via telefono touch-
+tone della Chemical
+• Spectrum: servizio per privati via telefono touch-tone della Citycorp,
+costo $10 al mese
+• Spectrum business banker: servizio per piccole aziende via telefono
+touch-tone della Citycorp, costo $50 al mese, a fronte di una maggior
+sicurezza delle transazioni rispetto al servizio per privati.
+• Channel 2000: trial version per 200 clienti test della Banc One. Questo
+tipo di servizio era computer-based
+• Applause: versione finale della Banc One computer-based per privati.
+Si credeva che il telefono fosse la tecnologia ideale per l’home banking perché
+era un device diffuso, ma nonostante l’ottimismo iniziale, i risultati disatte-
+sero le aspettative. Il telefono non forniva verifiche di tipo visuale, importanti
+per i clienti, e in più i telefoni touch-tone non erano diffusi come i telefoni a
+rotella. Successivamente vennero implementati i servizi computer based, ma an-
+che l’on-line banking ha sofferto per l’implementazione particolarmente povera:
+ad esempio il sistema della Bank of America era stato progettato per funzionare
+completamente online sul loro processore centrale con diverse difficoltà nelle
+procedure di firma nonché per la lentezza della grafica a 300 baud per singolo
+schermo d’entrata, che causava errori e confusione per l’utente. Tutte le pro-
+cedure erano state ideate sulla base dei metodi con cui la banca gestiva dati e
+informazioni e non considerando il punto di vista dell’utente finale: non erano
+user-friendly, ma difficili e confusionarie.
+In Italia, una delle prime banche a proporre la telebanca a larga diffusione fu
+la Cariplo nel 1995. Il servizio richiedeva l’installazione di un client sul proprio
+PC ed aveva un costo per l’utente: in apparente contraddizione con la riduzione
+dei costi ottenuta dalla banca, rispetto alle operazioni allo sportello, veniva
+infatti considerata un’opzione da far pagare al cliente.
+1.4
+Point of sales
+Il POS (point of sale) è un sistema di pagamento elettronico diffuso in tutto
+il mondo. Il terminale POS viene installato presso l’esercente, collegato alla
+rete telefonica e ogni volta che l’esercente striscia la carta si collega al centro
+autorizzativo del gestore del servizio per autorizzare o meno il pagamento del
+bene acquistato, l’addebito avviene in tempo reale o differito. All’esercente viene
+accreditato sul suo conto corrente in automatico l’importo del bene venduto. Il
+terminale POS è costituito da due unità, la prima riservata all’esercente per
+leggere la carta e stampare una doppia ricevuta, una per il cliente e una per
+l’esercente. La seconda è un apparecchio con tastierina numerica dove il cliente
+digita il PIN associato alla sua carta.
+il pos rappresenta un’evoluzione dei
+registratori di cassa che dà al cittadino il vantaggio di pagare in maniera più
+sicura e più pratica (con la carta di credito/debito rispetto al contante). D’altra
+parte però la maggior parte dei negozianti e di altri esercenti che erogano servizi
+è obbligata a dotarsi dell’infrastruttura del pos che comporta notevoli costi per
+l’abilitazione ad accettare pagamenti tramite carta di credito o di debito o carte
+prepagate come Pagobancomat o internazionale, Visa, Mastercard, American
+Express, Diners, JCB, EDC Maestro Rispetto alla media europea in italia i
+pagamenti procapite annui effettuati con carta sono notevolmente inferiori (194
+vs 74). Ciò ha portato il governo italiano a introdurre un decreto legge (del
+30 giugno 2014), secondo il quale tutti i commercianti, artigiani, professionisti,
+chiunque sia in grado di fornire una merce o un servizio ai consumatori dovrà
+dotarsi di un Pos. Le finalità sono anche di tracciabilità dei pagamenti oltre
+che di promozione di utilizzo di carte di credito per importi minori come già
+avviene nel resto dell’Europa. Ma il decreto che introduce il Pos per legge non
+ha strumenti adatti a difendere le buone intenzioni: non è contemplata nessuna
+sanzione a carico di chi non rispetterà l’obbligo. Ci sono diverse possibilità per
+gli esercenti in termini di tipologia (infatti esistono 4 tipi diversi di pos: modello
+standard, ethernet, cordless e GPRS/GSM) e i relativi costi di installazione sono
+differenti e si vanno ad aggiungere alle commissioni bancarie, come mostrato in
+figura 5 (costi Italia).
+
+1.4.1
+Breve storia del POS
+I primi sistemi POS sono stati introdotti da IBM nel 1970. Erano dotati di
+terminali ”stupidi” cablati ad un mainframe ”controllore”.
+Il mainframe si
+occupa della processazione dei dati. I terminali restituivano solo una schermata e
+non avevano capacità di elaborazione da soli. Questa configurazione in realtà ha
+rappresentato lo standard di set-up per le aziende che erano in fase di transizione
+da sistemi computer based. I supermercati Pathmark a New York e New Jersey
+e i grandi magazzini Dillards in California sono stati due dei primi ad adottare
+questa tecnologia. In generale, la maggior parte dei negozi al dettaglio e dei
+retailers ancora utilizzavano vecchi registratori di cassa o al più registratori di
+cassa elettronici.
+Non fu prima del 1990 che nacque l’idea di un personal computer con soft-
+ware per automatizzare le funzionalità di un negozio al dettaglio. Questo si è
+concretizzato quando l’hardware è diventato in grado di eseguire programmi di
+software che avevano ricche funzionalità e un’interfaccia utente grafica intuitiva
+(che sia Apple o Windows) ad un prezzo ragionevole e senza dover occupare
+l’intero piano di un edificio.
+Il primo vero sistema POS originale è stato in realtà sviluppato da un ris-
+toratore di New York di nome Gene Moshel su un computer Apple nel 1978.
+Mosher prese credito per :
+• il primo sviluppo del software di inserimento ordini su un PC tramite POS,
+• il primo sviluppo di stampa remota in cucina con un Apple Silentype nel
+mese di giugno del 1979
+• il primo sviluppo di una interfaccia touch screen e uso del colore-grafica
+in POS, con un Atari 520ST, nel 1986
+• il primo sviluppo di una interfaccia utente e touch-screen a colori, grafica
+in POS per UNIX nel 1995, Linux nel 1997, e FreeBSD nel 1998.
+Il software originale è stato utilizzato per portare avanti il suo ristorante
+(una gastronomia) di New York. Finalmente ha poi creato la sua azienda di
+software, la ViewTouch, che esiste ancora oggi.
+Oggi, ci sono centinaia di fornitori di software che fanno software per POS.
+Il software funziona su tutti i tipi di macchine e diversi sistemi operativi (OS),
+anche se le variazioni di Windows (XP, Windows Embedded, conosciuto come
+WEPOS e Windows Server) dominano il settore. Grandi imprese cavalcano il
+modello client server in cui vi è un server di database dedicato, con cui tutte
+le altre stazioni parlano per il recupero e la memorizzazione dei dati. Anche le
+piccole imprese, come i ristoranti, possono adottare questo modello. Dato che
+i sistemi in Ameroca hanno un entry level più basso (meno di $3000) spesso
+in leasing, per migliore ancora di più il livello di entrata, l’adozione continua a
+crescere rapidamente perché consente alle aziende di guadagnare tramite POS,
+andando quindi oltre il pareggio dei costi.
+1.5
+Le carte e la moneta
+Con le carte di credito e i conti correnti il cittadino può utilizzare la moneta
+bancaria, ed altri strumenti finanziari. Con l’inserimento della tecnologia del mi-
+crochip nelle carte ha inizio l’era della moneta elettronica. La moneta elettron-
+ica, o e-money, è il saldo registrato elettronicamente su una carta stored-value.
+Queste carte hanno microprocessori incorporati che possono essere caricati con
+un valore monetario. Un’altra forma di moneta elettronica è il denaro di rete,
+tramite software che permette il trasferimento di valore su reti informatiche, in
+particolare Internet. La moneta elettronica fluttua su una banca privata o altre
+istituzioni finanziarie e non è legata ad alcun conto particolare. Esempi di mon-
+eta elettronica sono i depositi bancari elettronici/va internet, il trasferimento
+elettronico di fondi, bonifici elettronici/via internet, sistemi di pagamento, e
+le valute digitali. Dal momento che la moneta elettronica è stata introdotta,
+diverse leggi sono state promulgate per regolamentare la crescente popolarità
+della moneta elettronica in tutto il mondo. la necessità di ulteriori misure e
+aggiornamenti della normativa esistente (in particolare la direttiva sui servizi di
+pagamento – Payment Service Directive, PSD – e le risposte al Libro Verde della
+Commissione Europea dell’11 gennaio 2012 “Verso un mercato europeo integrato
+dei pagamenti tramite carte, Internet e telefono mobile”) deriva dall’acuta os-
+servazione di alcuni fenomeni tipici dei nostri tempi: siamo in un mercato in cui
+quasi tutti i correntisti possiedono una carta di debito e il 40Alla luce di quanto
+detto la Commissione Europea ha ritenuto indispensabile predisporre una nor-
+mativa che, per un verso, instaurasse pari condizioni di concorrenza tra tutte
+le categorie di prestatori di servizi di pagamento, aumentando cos`ı scelta, effi-
+cienza, trasparenza e sicurezza dei pagamenti al dettaglio, per l’altro, agevolasse
+la prestazione transfrontaliera di servizi innovativi di pagamento con carta, via
+internet e tramite dispositivo mobile assicurando un mercato unico per tutti i
+pagamenti al dettaglio. La proposta di Direttiva tende quindi ad uniformare
+il livello europeo di alcune procedure relative all’autorizzazione degli istituti di
+pagamento, ad armonizzare ulteriormente diritti e obblighi in materia di paga-
+menti elettronici, eliminando alcune delle opzioni esercitate a livello nazionale,
+inoltre, introduce nuove norme con lo scopo di favorire la nascita di innovativi
+sistemi di pagamento elettronico per gli acquisti on-line. In combinato con la
+Direttiva, il Regolamento introdurrà massimali per le commissioni applicate ai
+consumatori sulle operazioni effettuate con carte di debito e di credito e vieterà
+l’applicazione di maggiorazioni per tali tipo di carte (ossia il sovrapprezzo che
+alcuni esercenti applicano al pagamento con carta) particolarmente in uso so-
+prattutto nell’acquisto di biglietti aerei. Con le nuove regole si impone un tetto
+massimo sulle commissioni valevole per tutti i paesi UE, intervenendo appunto
+sulle varie incongruenze nazionali sino ad oggi presenti: 0,2Ciò permetterà ai
+retails on-line, in particolare quelli che subivano gli alti tassi delle commissioni
+interbancarie, di diventare maggiormente competitivi sul mercato europeo con
+un effetto positivo sui prezzi. Per un periodo transitorio di 22 mesi, tali mas-
+simali si applicheranno solo alle operazioni transfrontaliere (intese quali oper-
+azioni in cui il consumatore usa la carta in un paese diverso dal proprio oppure
+quando il dettagliante si appoggia ad una banca di un altro paese), trascorso
+tale periodo riguarderanno anche le operazioni nazionali.
+La prospettiva di una riduzione del contante, realizzata appunto attraverso la
+diffusione generalizzata di sistemi di pagamento elettronici, è una tematica tanto
+attuale quanto controversa. Risulta dal documento CNEL che l’eliminazione del
+contante a favore di sistemi di pagamento elettronici è una realtà soltanto per
+pochi Paesi nel mondo: ad esempio il Giappone, con 12 carte di credito per
+abitante, è in testa alla classifica mentre l’Italia è solo al vebtitreesimo posto
+nel mondo, con 1,6 carte di credito per abitante (anche se l’effettivo divario per
+l’Italia deriva soprattutto dallo scarso utilizzo delle carte di credito mentre sul
+dato relativo alle carte di debito è allineata con gli altri paesi europei comparati
+bili).
